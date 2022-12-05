@@ -1,0 +1,118 @@
+.rathanpur .schllo_bebar .rathanpur.{
+	width: 100%;
+
+}
+.rathanpur{
+	width: 100%;
+	background: #804FC7;
+position: fixed;
+
+
+}
+.schllo_bebar{
+	width: 100%;
+	display: inline-block;
+  background: radial-gradient(#30A9B8, transparent);
+  height: 130px;
+}
+.schllo_bebar .bar{
+
+	color: #48F30C ;
+	font-size: 30px;
+	font-weight: bold;
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 20px;
+	box-shadow:-14px 35px 4px -15px #ffeb3b;
+
+	text-align: center;
+}
+.schllo_bebar h1{
+	color: #DE2F0F ;
+	font-size: 20px;
+	font-weight: bold;
+	width: 8%;
+	float: left;
+	text-align: center;
+}
+.schllo_bebar h2{
+	font-size: 20px;
+	color:#ECF30C ;
+	width: 3%;
+	font-weight: bold;
+	float: left;
+	margin-top: 2%;
+	text-align: center;
+}
+
+.schllo_bebar h3{
+	font-size: 20px;
+	text-align: center;
+	color: #48F30C ;
+	width: 4%;
+
+	font-weight: bold;
+	margin-top: 3%;
+	float: left;
+}
+
+ul{
+	width:97%;
+	padding:0;
+	margin: 0px 91px 2px 20px;
+	margin-top:10px;
+	background:#61B145 ;
+	border:4px solid #2C3E50 ;
+	display:inline-block;
+	overflow:hidden;
+}
+
+ul li{
+	background: #12F2BF;
+	float: left;
+	margin:5px;
+	list-style-type:none;
+
+}
+ul li a{
+		color:black;
+		background: #F212A1  ;
+		font-weight: bold;
+		font-size:19px;
+		text-decoration: none;
+		text-transform: capitalize;
+		padding:12px 7px;
+		border:1px solid #DCEA0B ;
+		display: inline-block;
+
+}
+ul li a:hover{
+	background:#95A5A6;
+
+}
+.menu{
+	background:#DFF3D7 ;
+	display: none;
+	padding:0;
+	min-width:100px;
+	box-shadow: 0 10px 13px grb(0.0.0.0.3);
+	position:absolute;
+}
+.menu a{
+	margin:0;
+	padding:0;
+	display:block;
+	color:black;
+
+}
+.menu a:hover{
+	background:#808000;
+}
+.content:hover .menu{
+	display:block;
+
+}
+
+
+
+	
